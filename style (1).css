@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+
+#score{
+font-size: medium;
+float: left;
+
+}
+
+#time{
+    font-size: medium;
+    float: right;
+}
+
+#sketch_to_drawn{
+    color: red;
+}
+
+
+
